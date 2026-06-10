@@ -50,7 +50,7 @@
 
 Estudante de tecnologia em formação, aprendendo na prática.
 
-Atualmente aprofundando os estudos em **Java** e **PostgreSQL**, com conhecimento em HTML, CSS e JavaScript. Também explorando os mistérios de **Cibersegurança**.
+Atualmente aprofundando os estudos em **Java** e **PostgreSQL**, com conhecimento em HTML, CSS. Também explorando os mistérios de **Cibersegurança** e **JavaScrip**.
 
 ```
 ❖ Class    →  Student
