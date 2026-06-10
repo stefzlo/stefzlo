@@ -46,12 +46,6 @@
 
 ---
 
-<div align="center">
-
-
-
-<img src="developer-in-training.svg" alt="Developer in Training" width="540"/>
-
 </div>
 
 ---
