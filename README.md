@@ -46,15 +46,11 @@
 
 ---
 
-</div>
-
----
-
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
-Estudante de tecnologia em formação, aprendendo na prática enquanto atravessa a névoa.
+Estudante de tecnologia em formação, aprendendo na prática.
 
-Atualmente aprofundando os estudos em **Java** e **PostgreSQL**, com conhecimento em HTML, CSS e JavaScript. Também explorando os mistérios da **Cibersegurança** — porque todo bom Hunter precisa conhecer as sombras.
+Atualmente aprofundando os estudos em **Java** e **PostgreSQL**, com conhecimento em HTML, CSS e JavaScript. Também explorando os mistérios de **Cibersegurança**.
 
 ```
 ❖ Class    →  Student
